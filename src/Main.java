@@ -12,6 +12,7 @@ public class Main {
         Student.getAverageMark();
         Student.println();
         Student.getMarks();
+        Student.println();
 
 
 
